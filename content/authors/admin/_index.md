@@ -9,19 +9,19 @@ interests:
   - Public Opinion
   - STS
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - display:
-      header: false
-    link: https://twitter.com/cherylsheassy
-    icon_pack: fab
-    icon: twitter
   - display:
       header: false
     link: https://scholar.google.com/citations?user=717iVPwAAAAJ&hl=en&authuser=1
     icon_pack: ai
     icon: google-scholar
+  - display:
+      header: false
+    link: https://twitter.com/cherylsheassy
+    icon_pack: fab
+    icon: twitter
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
 organizations:
   - name: University of Wisconsin-Madison
     url: https://commarts.wisc.edu/staff/shea-cheryl/
