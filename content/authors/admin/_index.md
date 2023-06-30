@@ -3,9 +3,11 @@ avatar_filename: img_5759_2.jpeg
 bio: My research interests include civic resistance, media sociology, knowledge
   production, public opinion and STS.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Civic Resistance
+  - Media Sociology
+  - Knowledge Production
+  - Public Opinion
+  - STS
 social:
   - icon: envelope
     icon_pack: fas
