@@ -16,17 +16,12 @@ social:
       header: false
     link: https://twitter.com/cherylsheassy
     icon_pack: far
-    icon: <i class="fa-brands fa-twitter"></i>
+    icon: twitter
   - display:
       header: false
     link: https://scholar.google.com/citations?user=717iVPwAAAAJ&hl=en&authuser=1
     icon_pack: far
-    icon: <i class="fa-brands fa-google"></i>
-  - display:
-      header: false
-    icon_pack: fas
-    icon: google
-    link: https://scholar.google.com/citations?user=717iVPwAAAAJ&hl=en&authuser=1
+    icon: google-scholar
 organizations:
   - name: University of Wisconsin-Madison
     url: https://commarts.wisc.edu/staff/shea-cheryl/
