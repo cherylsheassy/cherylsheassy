@@ -1,5 +1,5 @@
 ---
-avatar_filename: img_5759_2.jpeg
+avatar_filename: cheryl-1-1-.jpg
 bio: My research interests include civic resistance, media sociology, knowledge
   production, public opinion and STS.
 interests:
