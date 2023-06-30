@@ -32,15 +32,15 @@ organizations:
     url: https://commarts.wisc.edu/staff/shea-cheryl/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "PhD in Communication Arts "
+      institution: University of Wisconsin-Madison
+      year: ""
+    - course: "MPhil in Communication "
+      institution: "The Chinese University of Hong Kong "
+      year: 2021
+    - course: BSc in Journalism and Communication
+      institution: "The Chinese University of Hong Kong "
+      year: 2019
 superuser: true
 status:
   icon: ☕️
