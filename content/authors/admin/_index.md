@@ -12,15 +12,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -30,6 +21,16 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - display:
+      header: false
+    link: https://twitter.com/cherylsheassy
+    icon_pack: far
+    icon: <i class="fa-brands fa-twitter"></i>
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=717iVPwAAAAJ&hl=en&authuser=1
+    icon_pack: far
+    icon: <i class="fa-brands fa-google"></i>
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
