@@ -12,15 +12,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
   - display:
       header: false
     link: https://twitter.com/cherylsheassy
@@ -32,8 +23,8 @@ social:
     icon_pack: far
     icon: <i class="fa-brands fa-google"></i>
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Wisconsin-Madison
+    url: https://commarts.wisc.edu/staff/shea-cheryl/
 education:
   courses:
     - course: PhD in Artificial Intelligence
