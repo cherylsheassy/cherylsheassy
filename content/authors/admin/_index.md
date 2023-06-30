@@ -49,7 +49,7 @@ role: "PhD Student "
 highlight_name: true
 title: Cheryl Shea 佘思盈
 first_name: Alice
-email: ""
+email: cheryl.shea@wisc.edu
 ---
 Cheryl Shea is currently a Ph.D. student studying Communication Science in the Department of Communication Arts at the University of Wisconsin–Madison. Her research interests include political communication, public opinion, STS and media sociology. She received my MPhil in Communication in 2021 and B.S. in Journalism and Communication in 2019 from the Chinese University of Hong Kong.
 {style="text-align: justify;"}
