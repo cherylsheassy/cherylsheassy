@@ -25,7 +25,7 @@ social:
   - display:
       header: true
     icon_pack: fas
-    icon: <i class="fa-brands fa-google"></i>
+    icon: <FontAwesomeIcon icon="fa-brands fa-google" />
     link: https://scholar.google.com/citations?user=717iVPwAAAAJ&hl=en&authuser=1
 organizations:
   - name: University of Wisconsin-Madison
